@@ -11,5 +11,5 @@ if (! file.exists("./files/labour_force.csv")){
 
 ## load labour_force file into RStudio
 library(readr)
-labour_force <- read_csv("./files/labour_force.csv")
-View(labour_force)
+labourf <- read_csv("./files/labour_force.csv")
+View(labourf)
