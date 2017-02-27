@@ -1,5 +1,5 @@
 
-## check if folder already exist
+## check if folder already exist or not
 if (! dir.exists("files"))
   dir.create("files")
 
